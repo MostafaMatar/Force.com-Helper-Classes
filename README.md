@@ -78,7 +78,7 @@ String val = (String) mySuperMap.get('10000');
 
 ### SearchHelper.cls
 
-SearchHelper is a convenience utility that makes constructing SOSL
+SearchHelper is a convenient utility that makes constructing SOSL
 queries easier and less prone to errors.  It supports searching multiple 
 SObjects and includes support for adding Fields, Where clauses, and Limits.
 Search results are easily accessed by object.
